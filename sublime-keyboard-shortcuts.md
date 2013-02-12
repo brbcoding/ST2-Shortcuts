@@ -5,6 +5,7 @@
 `Ctrl` + `Shift` + `w` - Close Window  
 `Ctrl` + `Shift` + `t` - Reopen Last File  
 `Ctrl` + `Shift` + `s` - Save File As Prompt  
+`Ctrl` + `w` - Close Current File  
 `Ctrl` + `o` - Open File Prompt  
 `Ctrl` + `n` - New File  
 `Ctrl` + `s` - Save  
