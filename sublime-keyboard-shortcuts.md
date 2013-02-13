@@ -97,3 +97,6 @@
 ### Comments  
 `Ctrl` + `/` - Comment/Un-Comment a Line  
 `Ctrl` + `Shift` + `/` - Block Comment Selection  
+
+## Plugin Specific  
+### `Ctrl` + `Alt` + `Enter` - Open ZenCoding Live Editor  
