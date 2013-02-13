@@ -99,5 +99,5 @@
 `Ctrl` + `Shift` + `/` - Block Comment Selection  
 
 ## Plugin Specific  
-### Zen Coding 
-`Ctrl` + `Alt` + `Enter` - Open ZenCoding Live Editor  
+### Zen Coding/Emmet
+`Ctrl` + `Alt` + `Enter` - Open Live Editor  
