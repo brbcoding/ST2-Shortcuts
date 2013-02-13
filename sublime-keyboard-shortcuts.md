@@ -1,5 +1,5 @@
 # Sublime Text 2 Shortcuts
-
+## General
 ### Files
 `Ctrl` + `Shift` + `n` - New Window  
 `Ctrl` + `Shift` + `w` - Close Window  
